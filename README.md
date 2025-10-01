@@ -1,6 +1,6 @@
 # 🏥 MediBridge - Digital Healthcare Platform
 
-> **Bridging Traditional Indian Medicine (Ayush) with Modern Healthcare**
+> **Bridging Traditional Indian Medicine with Modern Healthcare**
 
 A comprehensive digital healthcare platform that seamlessly integrates traditional Indian medical practices with modern medical standards, providing secure patient record management and national health insights.
 
